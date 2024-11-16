@@ -1,5 +1,5 @@
 # About
-- Change weather to thunder storm before tx server restart
+- Change weather to thunder storm before tx server restart for QBCore servers
 
 ## Dependencies
 
